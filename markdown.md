@@ -1,14 +1,11 @@
 # Markdown
-========
-
-Plain Text formatting to HTML
-Software Tool
+========s
 
 [Wikipedia Page](https://en.wikipedia.org/wiki/Markdown)
 [Github Docs Page](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-> Markdown - Makes it easier to read, edit and write prose
-> - Codecademy
+> *Markdown - Makes it easier to read, edit and write prose*
+> *- Codecademy*
 
 ## Save file with markdown syntax with either of the following extensions:
 - .markdown
@@ -21,8 +18,7 @@ Software Tool
 - designed for the web
 
 ## When to Use Markdown:
-After knowing the many benefits of Markdown, you might want to consider using Markdown if you ever find yourself in any of these scenarios:
-
+*After knowing the many benefits of Markdown, you might want to consider using Markdown if you ever find yourself in any of these scenarios:*
 + The only editor available to you supports just plain text.
 + Time is of the essence and you can’t afford to learn how to use an unfamiliar rich-text editor.
 + You need to quickly outline your ideas in a structured but presentable manner.
