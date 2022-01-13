@@ -7,7 +7,7 @@ https://git-scm.com/docs
 1. Initialize Repository as a git repository
 2. Create GitHub Repository
 3. link remote repo to local repo
-4. Update code (this is done in what is loosely refered to as the 'working area')
+4. Update code (this is done in what is loosely,  or perhaps officially,  refered to as the 'working area')
 5. Add 'working version' code to 'staging area '''git add'''
 6. Commit and merge code to make it a part of the real code base '''git commit'''
 7. Push
@@ -102,7 +102,7 @@ https://git-scm.com/docs
 - [ ] *_I need to study this topic more in depth, examples would be helpful_*
 - [ ] What is the difference between git fetch and git pull?
 
-## Features, Branches, and Merging back
+## Branches and Merging back
 
 `git branch`
 - displays all the branches in the repository
@@ -210,18 +210,17 @@ Three different ways to backtrack in Git.
 - https://git-scm.com/docs/gitignore
 
 ## Forking a repository
-- add upstream and connectivity back to original repository to allow updates to original code base to be pulled through
-- example: git clone <REPOSITORY>
-- git remote add upstream <REPOSITORY SSH stuff>
-- git fetch upstream - this will update forked repository with changes in upstream repo
+- Add upstream and connectivity back to original repository to allow updates to original code base to be pulled through
+- Example: git clone <REPOSITORY>
+- Git remote add upstream <REPOSITORY SSH stuff>
+- Git fetch upstream - this will update forked repository with changes in upstream repo
 - Forking a repo is something done in GitHub, essentially copying a repo from another user/source
 - Once forked adding upstream allows you to pull through latest changes to original repo
 - The forked repo is not connected in this fashion when cloned
-- cloning is something you do in GitHub
+- Cloning is something you do in GitHub
 
-# **VIM is not a part of git; it is a text editor within the command line**
-================
-- if you end up in VIM, to get out do the following:
+# VIM is not a part of git; it is a text editor within the command line
+- If you end up in VIM, to get out do the following:
     - To enter command mode in VIM, type :
     - To quit, type q
     - Press ENTER
