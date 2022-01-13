@@ -1,0 +1,22 @@
+# These are some files that I want to ignore, at least for the time being
+
+# Un-ignore files as you update them and they are ready to be shared
+# markdown
+# git.md
+
+MERN.txt
+Mongo.txt
+CSS
+heroku.md
+MYSQL
+New Application
+NPM
+OOP, TDD
+React.txt
+SQLite
+State.txt
+terminal-commands
+Asynchronous.txt
+
+# don't ever upload this
+important
